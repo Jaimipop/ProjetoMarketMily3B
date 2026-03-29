@@ -40,8 +40,7 @@ body {
     position: sticky;
     top: 0;
     background-color: var(--bg-cor-menu);
-    color: rgb(98, 62, 62);
-    display: flex;
+    display:contents;
     justify-content: space-between;
     align-items: center;
     z-index: 1000;
@@ -272,6 +271,7 @@ body {
         margin: 0 auto;
     }
 }
+
 /*Tablet até 1024px*/
 @media (max-width: 1024px) {
     main {
