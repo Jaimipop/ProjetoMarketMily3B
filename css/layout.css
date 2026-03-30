@@ -64,14 +64,14 @@ body {
     color: white;
 }
 
-/* SESSÃO */
+/* Sessão */
 .sessao {
     padding: 40px;
     background: var(--bg-cor-clara);
     text-align: center;
 }
 
-/* CATÁLOGO ROBLOX STYLE */
+/* Catálogo */
 .catalogo-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -98,14 +98,10 @@ body {
     box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
 
-/* FOOTER */
+/* Rodapé */
 .footer {
     background: var(--bg-cor-escura);
     color: white;
     text-align: center;
     padding: 20px;
-}
-
-.footer-logo span {
-    color: var(--bg-cor-sec);
 }
